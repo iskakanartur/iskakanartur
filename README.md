@@ -1,4 +1,5 @@
 - Hi, I’m @iskakanartur , Artur
+- I work as a Business Intelligence Analyst 
 - I’m interested in Data Science, Python, Statistics, Data Visualization 
 - I’m currently learning Machine Learning 
 - I’m looking to collaborate on 
